@@ -1,0 +1,18 @@
+.movie-card-container {
+  width: 1100px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  height: 300px;
+  margin-bottom: 30px;
+  padding: 20px;
+  display: flex;
+  border-radius: 10px;
+}
+.movie-details-container {
+  text-align: left;
+  margin-left: 30px;
+}
+.movie-image {
+  height: 250px;
+  width: 200px;
+}
